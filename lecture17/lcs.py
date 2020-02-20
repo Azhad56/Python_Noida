@@ -9,7 +9,7 @@ def lcs(first, second):
         left = lcs(first[1:], second)
         right = lcs(first, second[1:])
         return max(left, right)
-
+print(lcs("man","Man"))
 
 def ret_lcs(first, second):
 
