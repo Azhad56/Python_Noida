@@ -95,9 +95,49 @@ Course Code and Content for Data Science Batch of Dec 2019
 - Merge Sort
 
 ### Lecture 20
-- Best First Search
+- Binary Search Tree
 - Operations of BST : add, contains, display, height, sum, mirror
 
 ### Lecture 21
 - Introduction to AVL Trees
-- 
+- Introduction to Graph
+
+### Lecture 22
+- Adjacency Graph
+- Traversal of Graph using Breadth First ,Depth First
+- Search of an element using Breadth First , Depth First
+
+### Lecture 23
+- Adjacency Graph with Connected Components and Bipartite
+- Introduction to Adjacency Map Graph
+
+### lecture 24
+- Dynamic Programming
+- Dp on Fibonacci Problem,Knapsack Problem,Dice Problem,Maze problem
+
+### Lecture 25
+- Numpy , Pandas and Matplotlib revisited
+- Advanced functionality  of Numpy,Pandas and Matplotlib
+
+### Lecture 26 
+- Introduction to Linear Regression
+- Implementation of Custom Linear Regression
+- Linear Regression on Non-linearly separable data
+
+### lecture 27
+- Introduction to Multiple Linear Regression
+- Implementation of Multiple Linear Regression
+
+### Lecture 28
+- Closed Form Solution of Linear Regression
+- Lowess
+- Introduction to Logistic Regression
+
+### Lecture 29
+- Implementation of Logistic Regression(Gradient Ascend algos used)
+- Logistic Regression (Dependent Variable contains more than 2 categories)
+
+### Lecture 30
+- Introduction to K-nearest Neighbours
+- Custom Knn 
+- KNN on MNIST handwritten dataset (Lecture By Kunal Kushwaha)
