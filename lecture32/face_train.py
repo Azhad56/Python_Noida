@@ -3,7 +3,7 @@ import numpy as np
 import time
 import time
 import os
-cap = cv2.VideoCapture('face.mp4')
+cap = cv2.VideoCapture('Azhad.mp4')
 classifier = cv2.CascadeClassifier('/home/azhad56/Desktop/Python_training/lecture31/haarcascade_frontalface_default.xml')
 X = []
 name = input("Enter Your name : ")
