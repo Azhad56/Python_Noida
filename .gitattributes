@@ -1,1 +1,2 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+lecture54/small-flicker-data-for-image-captioning.zip filter=lfs diff=lfs merge=lfs -text
