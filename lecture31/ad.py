@@ -4,11 +4,11 @@ import time
 import numpy as np
 
 cap_screen = cv2.VideoCapture("abc.mp4")
-cap_cam = cv2.VideoCapture(0)
+cap_cam = cv2.VideoCapture("Ahmad2.mp4")
 
-theta = np.linspace(0, 200*np.pi, 10000)
-rad = 200
-center_x, center_y = 200, 200
+theta = np.linspace(0, 100*np.pi, 10000)
+rad = 100
+center_x, center_y = 100, 100
 
 X = (rad * np.cos(theta) + center_x).astype(int)
 Y = (rad * np.sin(theta) + center_y).astype(int)
@@ -20,7 +20,7 @@ for x, y in zip(X, Y):
 
     if retval_screen and retval_cam:
 
-        w, h = 200, 150
+        w, h = 100, 50
         print(x, y, w, h)
 
         corner = cv2.resize(image_cam, (w, h))
