@@ -179,4 +179,8 @@ Course Code and Content for Data Science Batch of Dec 2019
 ### Lecture38
 - Natural language processing
 - nltk library used
+- Tokenization,Corpus,Stopwords,CountVectorizer
+- Working with Modi ji ki speech
+
+### Lecture39
 - 
