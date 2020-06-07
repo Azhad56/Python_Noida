@@ -207,5 +207,55 @@ Course Code and Content for Data Science Batch of Dec 2019
 - Correlation term discussed
 - Reducing attributes which have high correlation
 
-### Lecture45
+### Lecture46
+- Autoencoders Explained(Mnist Data)
+- Principal component Analysis
+- PCA on Mnist Data
+
+### Lecture47
+- Intro to Convolutional neural networks
+- Max Pooling,Padding,Pooling
+
+### Lecture48
+- Image Data generetor
+- Transfer Learning
+
+### Lecture49
+- Google word2vec Model
+- Finding Similiar colors using euclidean distance
+
+### Lecture50
+- Intro to RCNN
+- Classifying gender with names using embedding layer
+- Movie Rating Prediction
+
+### Lecture51
+- Reinforcement Learning
+- CartPole
+
+### Lecture52
+- Intro to Genetics Algo(Using Population examples)
+- Genereting similiar images 
+
+### Lecture53
+- Support vector machine explained
+
+### Lecture54
+- Image Captioning(small flickr dataset)
+- Lstm model used
+
+### Lecture55
+- Scrapping and Crawling revised
+- Cb Team member photo scrapped
+
+### Lecture56
+- Sql Revised
+
+### Lecture57
+- Generetive adverserial networks
+
+### Lecture58
+- Time Series Analysis
+
+### Lecture59
 - 
