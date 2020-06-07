@@ -179,4 +179,33 @@ Course Code and Content for Data Science Batch of Dec 2019
 ### Lecture38
 - Natural language processing
 - nltk library used
+- Tokenization,Corpus,Stopwords,CountVectorizer
+- Working with Modi ji ki speech
+
+### Lecture39
+- Flask Revised
+
+### Lecture40
+- Linear Regression in Tensorflow
+
+### Lecture41
+- Logistic Regression in Tensorflow
+- Building Neural N/w
+- Adding layers to model
+
+### Lecture42
+- Adding Dense layer to Sequential model
+- Multi layer perceptron
+- Handling handdwritten mnist using neural networks
+
+### Lecture43
+- Handling handdwritten mnist using neural networks
+
+### Lecture44
+- Normalisation on Boston Data
+- Performing EDA on Housing Price Data
+- Correlation term discussed
+- Reducing attributes which have high correlation
+
+### Lecture45
 - 
