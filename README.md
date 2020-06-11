@@ -192,12 +192,13 @@ Course Code and Content for Data Science Batch of Dec 2019
 - Logistic Regression in Tensorflow
 - Building Neural N/w
 - Adding layers to model
-
+- Deep learning notes
 ### Lecture42
 - Adding Dense layer to Sequential model
 - Multi layer perceptron
 - Handling handdwritten mnist using neural networks
-
+- Deep learning intro notes
+- MLP's notes
 ### Lecture43
 - Handling handdwritten mnist using neural networks
 
