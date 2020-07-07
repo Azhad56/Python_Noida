@@ -193,6 +193,7 @@ Course Code and Content for Data Science Batch of Dec 2019
 - Building Neural N/w
 - Adding layers to model
 - Deep learning notes
+- Imdb Movie Review classification
 ### Lecture42
 - Adding Dense layer to Sequential model
 - Multi layer perceptron
