@@ -192,12 +192,14 @@ Course Code and Content for Data Science Batch of Dec 2019
 - Logistic Regression in Tensorflow
 - Building Neural N/w
 - Adding layers to model
-
+- Deep learning notes
+- Imdb Movie Review classification
 ### Lecture42
 - Adding Dense layer to Sequential model
 - Multi layer perceptron
 - Handling handdwritten mnist using neural networks
-
+- Deep learning intro notes
+- MLP's notes
 ### Lecture43
 - Handling handdwritten mnist using neural networks
 
@@ -215,9 +217,11 @@ Course Code and Content for Data Science Batch of Dec 2019
 ### Lecture47
 - Intro to Convolutional neural networks
 - Max Pooling,Padding,Pooling
+- CNN notes(Blur Filter,Edge Filter,Activation Map,Fashion Mnist classification using cnn)
 
 ### Lecture48
-- Image Data generetor
+- CNN case studies(Alexnet,Zfnet,Vgg,Google Inception Module)
+- Image Data generetor,ImageData augmentation,Pipeline
 - Transfer Learning
 
 ### Lecture49
