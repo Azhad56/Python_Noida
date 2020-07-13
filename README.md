@@ -217,7 +217,7 @@ Course Code and Content for Data Science Batch of Dec 2019
 ### Lecture47
 - Intro to Convolutional neural networks
 - Max Pooling,Padding,Pooling
-- CNN notes(Blur Filter,Edge Filter,Activation Map,Fashion Mnist classification using cnn)
+- CNN notes(Blur Filter,Edge Filter,Activation Map,Mnist classification using cnn)
 
 ### Lecture48
 - CNN case studies(Alexnet,Zfnet,Vgg,Google Inception Module)
