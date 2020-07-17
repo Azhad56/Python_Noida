@@ -223,6 +223,7 @@ Course Code and Content for Data Science Batch of Dec 2019
 - CNN case studies(Alexnet,Zfnet,Vgg,Google Inception Module)
 - Image Data generetor,ImageData augmentation,Pipeline
 - Transfer Learning
+- Transfer Learning Notes
 
 ### Lecture49
 - Google word2vec Model
