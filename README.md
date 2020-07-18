@@ -186,6 +186,7 @@ Course Code and Content for Data Science Batch of Dec 2019
 - Flask Revised
 
 ### Lecture40
+- computational graph with @tf.function
 - Linear Regression in Tensorflow
 
 ### Lecture41
